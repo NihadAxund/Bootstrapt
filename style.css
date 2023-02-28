@@ -1,0 +1,62 @@
+.C-Secondary {
+    background-color: #2C3E50 !important;
+}
+.CF-Secondary{
+    color: #2C3E50;
+}
+
+.C-Base {
+    background-color: #1ABC9C !important;
+}
+
+.HeadText {
+    font-size: 5vi;
+    font-weight: bold;
+}
+
+ul>li>a:hover {
+    color: #1ABC9C !important;
+}
+
+.FC-Base {
+    color: white !important;
+
+    border-color: white !important;
+}
+
+
+.Cards>div >div {
+    border-radius: 10px !important;
+    overflow: hidden;
+
+}
+.Cards>div{
+    margin-bottom: 3.5vi;
+}
+.Cards>div >div:hover img {
+    opacity: 20%;
+}
+
+.Hr_1 {
+    border: 10px solid rgb(255, 255, 255) !important;
+    border-radius: 5px;
+}
+
+.div1 {
+    width: 15vi;
+    height: 5px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.Img1 {
+    width: 40%;
+
+}
+
+.navbar-toggler-icon2 {
+
+    width: 100px;
+    height: 100px;
+    background-image: url("https://icon-library.com/images/hamburger-icon-white/hamburger-icon-white-12.jpg") !important;
+}
